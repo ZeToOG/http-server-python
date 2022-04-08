@@ -1,3 +1,32 @@
+
+Skip to content
+Pull requests
+Issues
+Marketplace
+Explore
+@ZeToOG
+ZeToOG /
+http-server-python
+Public
+
+Code
+Issues
+Pull requests
+Actions
+Projects
+Wiki
+Security
+Insights
+
+    Settings
+
+http-server-python/.gitignore
+@ZeToOG
+ZeToOG Initial commit
+Latest commit a743a98 2 hours ago
+History
+1 contributor
+129 lines (105 sloc) 1.76 KB
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -127,3 +156,19 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+    © 2022 GitHub, Inc.
+
+    Terms
+    Privacy
+    Security
+    Status
+    Docs
+    Contact GitHub
+    Pricing
+    API
+    Training
+    Blog
+    About
+
+Loading complete
